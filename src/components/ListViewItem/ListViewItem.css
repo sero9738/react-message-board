@@ -1,0 +1,31 @@
+.message-item {
+  margin-inline: auto;
+  margin-block: 0.5em;
+  padding-block: 0.5em;
+  background-color: white;
+  border-left: 4px solid lightgrey;
+}
+
+.unread-message {
+  background-color: aliceblue !important;
+  border-left: 4px solid red !important;
+}
+
+.unread-message:hover {
+  background-color: rgb(232, 238, 245) !important;
+}
+
+.message-subject {
+  margin-block: 0.3em;
+  font-weight: bold;
+  display: block;
+  font-size: 13px;
+  padding-left: 0.5em;
+}
+
+.message-body {
+  margin-block: 0.3em;
+  display: block;
+  font-size: 11px;
+  padding-left: 0.5em;
+}

@@ -1,0 +1,17 @@
+.input-group {
+  display: block;
+  width: 500px;
+  margin-bottom: 1em;
+}
+
+.submit-button {
+  padding: 0.5em 3em 0.5em 3em;
+  background-color: green;
+  color: white;
+  border: 0 solid transparent;
+  border-radius: 0.2em;
+}
+
+.submit-button:hover {
+  background-color: rgb(0, 148, 0);
+}

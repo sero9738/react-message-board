@@ -1,0 +1,12 @@
+#view-list {
+  overflow: auto;
+  height: 400px;
+}
+
+#message-list {
+  list-style: none;
+  margin-inline: auto;
+  width: 450px;
+  margin-block: 0;
+  padding: 0;
+}
